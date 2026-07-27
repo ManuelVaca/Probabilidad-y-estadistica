@@ -1,7 +1,8 @@
 # Diplomado en Técnicas Estadísticas y Minería de Datos
-**Universidad Nacional Autónoma de México (UNAM)**  
+**Universidad Nacional Autónoma de México (UNAM)**
+** Facultad de Estudios Superiores Acatlán**  
 **Módulo II: Probabilidad y Modelos Estadísticos**  
-*Autor: Manuel Gómez Vaca*
+*Autor: José Manuel Gómez Vaca*
 
 ---
 
