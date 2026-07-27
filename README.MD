@@ -29,6 +29,7 @@ El objetivo de este módulo es formalizar los fundamentos teóricos de la probab
 * **Función de Distribución Acumulada (FDA):** Propiedades unificadas y relación con la FDP.
 * **Momentos y Operadores:** Esperanza Matemática $\mathbb{E}[X]$, Varianza $\text{Var}(X)$, momentos crudos y momentos centrales.
 * **Simulaciones en Python:** Generación y comparación de distribuciones teóricas vs. empíricas (Poisson y Normal) utilizando `numpy`, `scipy.stats` y `matplotlib`.
+* **Función generadora de momentos y función característica:** Un poco de la teoría de estas maravillosas funciones y su uso y relación con las transformadas ya conocidad (Laplace y Fourier) 
 
 ### 📖 Notebook 3: [Próximamente]
 * *Tema en desarrollo...*
@@ -39,7 +40,7 @@ El objetivo de este módulo es formalizar los fundamentos teóricos de la probab
 
 * **Lenguaje:** Python 3.x
 * **Librerías Principales:**
-  * `numpy`: Cálculos numéricos y manejo de arreglos.
+  * `numpy`: Empleado para realizar cálculos numéricos y manejo de arreglos.
   * `scipy`: Funciones de distribución de probabilidad avanzadas (`scipy.stats`).
   * `matplotlib` / `seaborn`: Visualización gráfica de distribuciones y simulaciones.
 
