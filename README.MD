@@ -1,6 +1,6 @@
 # Diplomado en Técnicas Estadísticas y Minería de Datos
 **Universidad Nacional Autónoma de México (UNAM)**
-** Facultad de Estudios Superiores Acatlán**  
+**Facultad de Estudios Superiores Acatlán**  
 **Módulo II: Probabilidad y Modelos Estadísticos**  
 *Autor: José Manuel Gómez Vaca*
 
@@ -8,7 +8,8 @@
 
 ## 📌 Descripción del Repositorio
 
-Este repositorio contiene los cuadernos de trabajo (`.ipynb`) desarrollados para el Módulo II del Diplomado en Técnicas Estadísticas y Minería de Datos. El objetivo de este módulo es formalizar los fundamentos teóricos de la probabilidad mediante la Teoría de la Medida y profundizar en el modelado estadístico, apoyándose en implementaciones computacionales e intuición práctica a través de **Python**.
+Este repositorio contiene los cuadernos de trabajo (`.ipynb`) desarrollados para el Módulo II del Diplomado en Técnicas Estadísticas y Minería de Datos. 
+El objetivo de este módulo es formalizar los fundamentos teóricos de la probabilidad mediante la Teoría de la Medida y profundizar en el modelado estadístico, apoyándose en implementaciones computacionales e intuición práctica a través de **Python**.
 
 ---
 
